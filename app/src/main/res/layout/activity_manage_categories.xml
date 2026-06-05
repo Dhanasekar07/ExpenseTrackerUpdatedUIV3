@@ -67,7 +67,7 @@
             android:id="@+id/previewCollapsed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
+            android:orientation="horizontal" />
 
         <!-- Expanded chips (hidden by default) -->
         <LinearLayout
